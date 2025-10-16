@@ -8,19 +8,19 @@ Welcome to my first major project in machine learning\! This repository contains
 
 ## 📜 Table of Contents
 
-  * [Learning Objectives](https://www.google.com/search?q=%23%F0%9F%8E%AF-learning-objectives)
-  * [Dataset Information](https://www.google.com/search?q=%23%F0%9F%93%8A-dataset-information)
-  * [Methodology](https://www.google.com/search?q=%23-methodology)
-  * [CNN Model Architecture](https://www.google.com/search?q=%23%F0%9F%8F%97%EF%B8%8F-cnn-model-architecture)
-  * [Performance & Results](https://www.google.com/search?q=%23%F0%9F%93%88-performance--results)
-  * [How to Run This Project](https://www.google.com/search?q=%23-how-to-run-this-project)
-  * [File Descriptions](https://www.google.com/search?q=%23-file-descriptions)
-  * [Conclusion](https://www.google.com/search?q=%23-conclusion)
-  * [Contact](https://www.google.com/search?q=%23-contact)
+* [Learning Objectives](#learning-objectives)
+* [Dataset Information](#dataset-information)
+* [Methodology](#methodology)
+* [CNN Model Architecture](#cnn-model-architecture)
+* [Performance & Results](#performance--results)
+* [How to Run This Project](#how-to-run-this-project)
+* [File Descriptions](#file-descriptions)
+* [Conclusion](#conclusion)
+* [Contact](#contact)
 
 -----
 
-## 🎯 Learning Objectives
+## Learning Objectives
 
 This project was undertaken to solidify my understanding and practical skills in the following areas:
 
@@ -31,7 +31,7 @@ This project was undertaken to solidify my understanding and practical skills in
 
 -----
 
-## 📊 Dataset Information
+## Dataset Information
 
 The project utilizes the **MNIST dataset**, a cornerstone for learning computer vision.
 
@@ -42,7 +42,7 @@ The project utilizes the **MNIST dataset**, a cornerstone for learning computer 
 
 -----
 
-## 🧠 Methodology
+## Methodology
 
 The project follows a systematic machine learning workflow:
 
@@ -59,7 +59,7 @@ The project follows a systematic machine learning workflow:
 
 -----
 
-## 🏗️ CNN Model Architecture
+## CNN Model Architecture
 
 The model architecture is a sequential stack of layers designed to learn hierarchical features from the images.
 
@@ -80,7 +80,7 @@ Here is a visual representation of the model:
 
 -----
 
-## 📈 Performance & Results
+## Performance & Results
 
 The model achieved outstanding results on the test dataset, demonstrating its effectiveness.
 
@@ -114,7 +114,7 @@ The confusion matrix highlights the model's high accuracy, with the vast majorit
 
 -----
 
-## 🚀 How to Run This Project
+## How to Run This Project
 
 To run this project on your local machine, follow these steps:
 
@@ -136,7 +136,7 @@ To run this project on your local machine, follow these steps:
 
 -----
 
-## 📁 File Descriptions
+## File Descriptions
 
   * **`P1_CNN_MNIST.ipynb`**: The main Jupyter Notebook containing all the Python code, analysis, and outputs.
   * **`P1_CNN_MNIST.html`**: An HTML export of the completed notebook for easy viewing in a browser.
@@ -146,13 +146,13 @@ To run this project on your local machine, follow these steps:
 
 -----
 
-## ✨ Conclusion
+## Conclusion
 
 This project successfully demonstrates the power of Convolutional Neural Networks for image classification tasks. The model achieved a high accuracy of **99.31%** on the MNIST test set, proving its ability to generalize well to unseen data. The detailed evaluation confirms robust performance across all digit classes. This exercise has been an excellent practical introduction to building and evaluating deep learning models for computer vision.
 
 -----
 
-## 📧 Contact
+## Contact
 
 **Vivek Prakash Upreti**
 
